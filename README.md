@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creosb&label=Profile%20views&color=0e75b6&style=flat" alt="creosb" /> </p>
 
-<a href="https://fb.com/artistscompanyofficial"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=green" alt="visitors"></a>
+<a href="https://play.google.com/store/apps/dev?id=6223046675380899342"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=green" alt="visitors"></a>
 
 - 🔭 I’m currently working on **Toon Tanks Game**
 
