@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/creosb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="creosb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/barışeroğlu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="barışeroğlu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bariseroglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="barışeroğlu" height="30" width="40" /></a>
 <a href="https://fb.com/artistscompanyofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="artistscompanyofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/artistscompanyofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="artistscompanyofficial" height="30" width="40" /></a>
 <p class="has-line-data" data-line-start="4" data-line-end="9"><a href="https://discord.gg/TZkyjTC"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="visitors"></a><br>
