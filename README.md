@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Barış Eroğlu</h1>
+<h1 align="center">Hi 👋, I'm Creos</h1>
 <h3 align="center">I'm Information Systems and Technologies student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creosb&label=Profile%20views&color=0e75b6&style=flat" alt="creosb" /> </p>
