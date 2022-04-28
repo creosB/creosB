@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [**here**](https://www.artistscompany.tech)
 
-- 💬 Ask me about **C, C#, python, dart and game engine**
+- 💬 Ask me about **C++, python, dart and game engine**
 
 - 📫 How to reach me **artistscompany@protonmail.com**
 
