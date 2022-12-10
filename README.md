@@ -29,9 +29,9 @@
 
 - 👯 I’m looking to collaborate on [Game Time](https://play.google.com/store/apps/details?id=com.artistscompany.oyunzamani)
 
-- 🤝 I’m looking for help with [Unreal Engine game create](http://www.artistscompany.tech/)
+- 🤝 I’m looking for help with [Unreal Engine game create](http://www.artistscompany.net/)
 
-- 👨‍💻 All of my projects are available at [**here**](https://www.artistscompany.tech)
+- 👨‍💻 All of my projects are available at [**here**](https://www.artistscompany.net)
 
 - 💬 Ask me about **C++, python, dart and game engine**
 
