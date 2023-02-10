@@ -19,7 +19,7 @@
 | [Quiz Game](https://github.com/creosB/bilgi_yarismasi) (Unity)                                                 |                                                                                                     |                                                                                            |                                                |                                                                                    |
 
 
-
+<h3 align="center">Marketplace</h1>
 
 <a href="https://play.google.com/store/apps/dev?id=6223046675380899342"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=green" alt="visitors"></a>
 [![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
@@ -28,7 +28,7 @@
 ## Portfolio [**here**](https://www.artistscompany.net)
 
 
-<h3 align="center">Socials 🌐</h1>
+<h3 align="center">Socials</h1>
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/creosb) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CreosB) 
@@ -38,7 +38,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TZkyjTC)
 
 
-<h3 align="center">Languages and Tools 💻</h3>
+<h3 align="center">Languages and Tools</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -48,7 +48,7 @@
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%2302569B.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%2302569B.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-### How to reach me 💫
+### How to reach me
 **artistscompany@protonmail.com**
 
 [![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
