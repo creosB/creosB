@@ -23,7 +23,7 @@
 
 <a href="https://play.google.com/store/apps/dev?id=6223046675380899342"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=green" alt="visitors"></a>
 [![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
-
+[![Itch.io](https://img.shields.io/badge/Itch_IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://artistscompany.itch.io/)
 
 ## Portfolio [**here**](https://www.artistscompany.net)
 
