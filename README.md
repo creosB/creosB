@@ -19,54 +19,40 @@
 | [Quiz Game](https://github.com/creosB/bilgi_yarismasi) (Unity)                                                 |                                                                                                     |                                                                                            |                                                |                                                                                    |
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=creosb&label=Profile%20views&color=0e75b6&style=flat" alt="creosb" /> </p>
+
 
 <a href="https://play.google.com/store/apps/dev?id=6223046675380899342"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=green" alt="visitors"></a>
+[![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
 
-- 🔭 I’m currently working on **Beanbob**
 
-- 🎓 I’m currently learning **C++ with Unreal Engine**
+## Portfolio [**here**](https://www.artistscompany.net)
 
-- 👯 I’m looking to collaborate on [Game Time](https://play.google.com/store/apps/details?id=com.artistscompany.oyunzamani)
 
-- 🤝 I’m looking for help with [Unreal Engine game create](http://www.artistscompany.net/)
+<h3 align="center">Socials 🌐</h1>
 
-- 👨‍💻 All of my projects are available at [**here**](https://www.artistscompany.net)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/creosb) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CreosB) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CreosB)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artistscompanyofficial)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/artistscompanyofficial)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TZkyjTC)
 
-- 💬 Ask me about **C++, python, dart and game engine**
 
-- 📫 How to reach me **artistscompany@protonmail.com**
+<h3 align="center">Languages and Tools 💻</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/creosb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="creosb" height="30" width="40" /></a>
-<a href="https://fb.com/artistscompanyofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="artistscompanyofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/artistscompanyofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="artistscompanyofficial" height="30" width="40" /></a>
-<p class="has-line-data" data-line-start="4" data-line-end="9"><a href="https://discord.gg/TZkyjTC"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="visitors"></a><br>
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal_engine-%2302569B.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%2302569B.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
+### How to reach me 💫
+**artistscompany@protonmail.com**
 
-<p align="left">
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-  <a target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-  </a>
-  <a href="https://unrealengine.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" />
-  </a>
-</p>
+[![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=creosb&label=Profile%20views&color=0e75b6&style=flat" alt="creosb" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creosb&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=radical" alt="creosb" /></p>
