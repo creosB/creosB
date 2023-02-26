@@ -50,6 +50,7 @@
 
 ### How to reach me
 **artistscompany@protonmail.com**
+**and** you can always reach to me with Discord **Creos#8824**
 
 [![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
 
