@@ -53,5 +53,3 @@
 **and** you can always reach to me with Discord **Creos#8824**
 
 [![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creosb&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=radical" alt="creosb" /></p>
