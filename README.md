@@ -54,6 +54,4 @@
 
 [![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=creosb&label=Profile%20views&color=0e75b6&style=flat" alt="creosb" /> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creosb&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=radical" alt="creosb" /></p>
