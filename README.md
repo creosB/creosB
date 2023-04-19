@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Creos</h1>
 <h3 align="center">I'm Information Systems and Technologies student.</h3>
+<hr style="height:30pt; visibility:hidden;" />
 
 <h3 align="center">My Works</h1>
-
+<hr style="height:30pt; visibility:hidden;" />
 
 | Games                                                                                                          | Mobile Application                                                                                  | Computer Application                                                                       | Web Site                                       | Blog (Markdown)                                                                    |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------|
@@ -18,17 +19,24 @@
 | [Dragon Castle](https://play.google.com/store/apps/details?id=com.artistscompany.dragoncastle) (Unreal Engine) |                                                                                                     |                                                                                            |                                                |                                                                                    |
 | [Quiz Game](https://github.com/creosB/bilgi_yarismasi) (Unity)                                                 |                                                                                                     |                                                                                            |                                                |                                                                                    |
 
+<hr style="height:30pt; visibility:hidden;" />
 
-<h3 align="center">Marketplace</h1>
+<h3 align="center">Marketplace</h3>
 
 [![google-play](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/google-play_vector.svg)](https://play.google.com/store/apps/dev?id=6223046675380899342)
 [![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
 [![Itch.io](https://img.shields.io/badge/Itch_IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://artistscompany.itch.io/)
 
-## Portfolio [**here**](https://www.artistscompany.net)
+<hr style="height:30pt; visibility:hidden;" />
 
 
-<h3 align="center">Socials</h1>
+<h3 align="center">Portfolio</h3>
+
+[![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg)](https://www.artistscompany.net)
+
+<hr style="height:30pt; visibility:hidden;" />
+
+<h3 align="center">Socials</h3>
 
 [![twitch-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg)](https://www.twitch.tv/creosb) 
 [![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg)](https://www.youtube.com/@CreosB)
@@ -39,6 +47,8 @@
 
 [![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/TZkyjTC)
 
+<hr style="height:30pt; visibility:hidden;" />
+
 <h3 align="center">Languages and Tools</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,6 +58,8 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%2302569B.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%2302569B.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+<hr style="height:30pt; visibility:hidden;" />
 
 ### How to reach me
 **artistscompany@protonmail.com**
