@@ -21,7 +21,7 @@
 
 <h3 align="center">Marketplace</h1>
 
-<a href="https://play.google.com/store/apps/dev?id=6223046675380899342"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=green" alt="visitors"></a>
+[![google-play](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/google-play_vector.svg)](https://play.google.com/store/apps/dev?id=6223046675380899342)
 [![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
 [![Itch.io](https://img.shields.io/badge/Itch_IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://artistscompany.itch.io/)
 
@@ -30,13 +30,14 @@
 
 <h3 align="center">Socials</h1>
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/creosb) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CreosB) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CreosB)
+[![twitch-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg)](https://www.twitch.tv/creosb) 
+[![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg)](https://www.youtube.com/@CreosB)
+
+[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/CreosB) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artistscompanyofficial)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/artistscompanyofficial)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TZkyjTC)
 
+[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/TZkyjTC)
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -52,4 +53,4 @@
 **artistscompany@protonmail.com**
 **and** you can always reach to me with Discord **Creos#8824**
 
-[![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
+[![buymeacoffee-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg)](https://www.buymeacoffee.com/creos)
