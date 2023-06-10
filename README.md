@@ -63,6 +63,6 @@
 
 ### How to reach me
 **artistscompany@protonmail.com**
-**and** you can always reach to me with Discord **Creos#8824**
+**and** you can always reach to me with Discord **creos**
 
 [![buymeacoffee-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg)](https://www.buymeacoffee.com/creos)
