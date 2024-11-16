@@ -20,6 +20,7 @@
 | [Simple Snake](https://github.com/creosB/Simple-Snake) (Unity)                                                  |                                                                                                            |                                                                                                                  |                                                                                                            |                                                                                                           |                                                                                                            |
 | [Quiz Game](https://github.com/creosB/bilgi_yarismasi) (Unity)                                                  |                                                                                                            |                                                                                                                  |                                                                                                            |                                                                                                           |                                                                                                            |
 
+![Total Stars](https://img.shields.io/github/stars/creosb)
 
 <hr style="height:30pt; visibility:hidden;" />
 
@@ -27,9 +28,9 @@
 
 [![google-play](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/google-play_vector.svg)](https://play.google.com/store/apps/dev?id=6223046675380899342)
 [![Steam](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/steam_vector.svg)](https://store.steampowered.com/app/2402620/World_Guesser/)
-[![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
-[![Itch.io](https://img.shields.io/badge/Itch_IO-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://artistscompany.itch.io/)
-[![Chrome](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/chrome.svg)](https://chromewebstore.google.com/detail/ai-side-panel/icapcpllhdnnpcmfdcgpnbgchfenmjmg)
+[![Huawei](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/huawei.svg)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
+[![Itch.io](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/itchio.svg)](https://artistscompany.itch.io/)
+[![Chrome](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Chrome%20Web%20Store.svg)](https://chromewebstore.google.com/detail/ai-side-panel/icapcpllhdnnpcmfdcgpnbgchfenmjmg)
 
 <hr style="height:30pt; visibility:hidden;" />
 
@@ -45,10 +46,10 @@
 [![twitch-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg)](https://www.twitch.tv/creosb) 
 [![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg)](https://www.youtube.com/@CreosB)
 
-[![twitter-singular](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/CreosB) 
-[![Instagram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg)](https://instagram.com/artistscompanyofficial)
-[![Instagram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/bariseroglu/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/artistscompanyofficial)
+[![X](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/X.svg)](https://x.com/CreosB) 
+[![Instagram](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Instagram.svg)](https://instagram.com/artistscompanyofficial)
+[![Linkedin](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Linkedin.svg)](https://www.linkedin.com/in/bariseroglu/)
+[![Facebook](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/facebook.svg)](https://fb.com/artistscompanyofficial)
 
 [![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/TZkyjTC)
 
@@ -56,18 +57,20 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://raw.githubusercontent.com/jvc-byte/ColoredBadges/refs/heads/master/svg/dev/languages/C%2B%2B.svg)
 ![C#](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg)
 ![Flutter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/flutter.svg)
 ![Python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal_engine-%2302569B.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/unreal%20engine.svg)
 ![Unity](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/unity.svg)
+![Blender](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Blender.svg)
+![Figma](https://github.com/creosB/creosB/blob/main/assets/figma.svg)
 
 <hr style="height:30pt; visibility:hidden;" />
 
 ### How to reach me
-**artistscompany@protonmail.com**
-**and** you can always reach to me with Discord **creos**
+> [!Warning]  
+> **artistscompany@protonmail.com**
+> **and** you can always reach to me with Discord **creos**
 
 [![buymeacoffee-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg)](https://www.buymeacoffee.com/creos)
