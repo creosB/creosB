@@ -32,6 +32,7 @@
 [![Itch.io](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/itchio.svg)](https://artistscompany.itch.io/)
 [![Chrome](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Chrome%20Web%20Store.svg)](https://chromewebstore.google.com/detail/ai-side-panel/icapcpllhdnnpcmfdcgpnbgchfenmjmg)
 [![Edge](https://raw.githubusercontent.com/creosB/creosB/2ca982c79eff856e6bf5bf8f647e8e9eaaab7cb4/assets/Edge.svg)](https://microsoftedge.microsoft.com/addons/search?developer=Artists%20Company)
+[![Greasy Fork](https://github.com/creosB/creosB/blob/main/assets/Greasy%20Fork.svg)](https://greasyfork.org/en/users/1496946-creos)
 
 <hr style="height:30pt; visibility:hidden;" />
 
