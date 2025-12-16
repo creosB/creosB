@@ -63,7 +63,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-![C++](https://raw.githubusercontent.com/jvc-byte/ColoredBadges/refs/heads/master/svg/dev/languages/C%2B%2B.svg)
+![C++](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/png/dev/languages/cpp.png)
 ![C#](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg)
 ![Flutter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/flutter.svg)
 ![Python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
