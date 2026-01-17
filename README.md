@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Creos</h1>
-<h3 align="center">Unreal Engine Game Developer | C++ & Blueprint Specialist | Passionate about Game Design & Digital Arts</h3>
+<h3 align="center">Project Management  | Software Engineer  | Passionate about Game Design & Digital Arts</h3>
 <hr style="height:30pt; visibility:hidden;" />
 
 <h3 align="center">My Works</h1>
