@@ -78,7 +78,7 @@
 
 ### How to reach me
 > [!Warning]  
-> **artistscompany@protonmail.com**
+> **contact@artistscompany.com**
 > **and** you can always reach to me with Discord **creos**
 
 [![buymeacoffee-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg)](https://www.buymeacoffee.com/creos)
