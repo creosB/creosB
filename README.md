@@ -32,6 +32,7 @@
 <h3 align="center">Marketplace</h3>
 
 [![google-play](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/google-play_vector.svg)](https://play.google.com/store/apps/dev?id=6223046675380899342)
+[![app-store](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/app-store_vector.svg)](https://apps.apple.com/us/developer/alperen-eroglu/id1872514816)
 [![Steam](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/steam_vector.svg)](https://store.steampowered.com/app/2402620/World_Guesser/)
 [![Huawei](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/huawei.svg)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
 [![Itch.io](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/itchio.svg)](https://artistscompany.itch.io/)
