@@ -36,11 +36,13 @@
 [![app-store](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/app-store_vector.svg)](https://apps.apple.com/us/developer/alperen-eroglu/id1872514816)
 [![Steam](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/steam_vector.svg)](https://store.steampowered.com/app/2402620/World_Guesser/)
 [![Huawei](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/huawei.svg)](https://appgallery.huawei.com/tab/appdetailCommon%7CC103270749%7Cautomore%7Cdoublecolumncardwithstar%7C903547)
+[![Medium](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Medium.svg)](https://medium.com/@creosb)
 [![Itch.io](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/itchio.svg)](https://artistscompany.itch.io/)
 [![Chrome](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Chrome%20Web%20Store.svg)](https://chromewebstore.google.com/detail/ai-side-panel/icapcpllhdnnpcmfdcgpnbgchfenmjmg)
 [![Edge](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Edge.svg)](https://microsoftedge.microsoft.com/addons/search?developer=Artists%20Company)
 [![Figma](https://github.com/creosB/creosB/blob/main/assets/Figma%20Community.svg)](https://www.figma.com/community/plugin/1602500612875796442)
 [![Greasy Fork](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Greasy%20Fork.svg)](https://greasyfork.org/en/users/1496946-creos)
+
 
 <hr style="height:30pt; visibility:hidden;" />
 
