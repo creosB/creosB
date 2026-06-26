@@ -57,6 +57,7 @@
 
 [![twitch-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg)](https://www.twitch.tv/creosb) 
 [![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg)](https://www.youtube.com/@CreosB)
+[![spotify](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/spotify_vector.svg)](https://open.spotify.com/show/0Cq2Rq9gkO1IL1ELXdMVmO)
 
 [![X](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/X.svg)](https://x.com/CreosB) 
 [![Instagram](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Instagram.svg)](https://instagram.com/artistscompanyofficial)
