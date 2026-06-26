@@ -42,6 +42,7 @@
 [![Edge](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Edge.svg)](https://microsoftedge.microsoft.com/addons/search?developer=Artists%20Company)
 [![Figma](https://github.com/creosB/creosB/blob/main/assets/Figma%20Community.svg)](https://www.figma.com/community/plugin/1602500612875796442)
 [![Greasy Fork](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/Greasy%20Fork.svg)](https://greasyfork.org/en/users/1496946-creos)
+[![FAB](https://raw.githubusercontent.com/creosB/creosB/refs/heads/main/assets/FAB.svg)](https://www.fab.com/sellers/artistscompany)
 
 
 <hr style="height:30pt; visibility:hidden;" />
